@@ -156,19 +156,22 @@ nav .nav-btn {
     margin-top: 10px;
     margin-right: 360px;
 }
+
 .web-development-image-content {
     width: 477px;
     height: 220px;
     margin-top: 50px;
 }
-.second-content h2{
+
+.second-content h2 {
     color: rgba(13, 19, 33, 0.7);
     font-family: Azeret Mono;
     font-size: 24px;
     font-weight: 700;
     text-align: left;
 }
-.second-content p{
+
+.second-content p {
     color: rgb(13, 19, 33);
     font-family: Azeret Mono;
     font-size: 16px;
@@ -177,11 +180,61 @@ nav .nav-btn {
     margin-top: 0;
     margin-bottom: 0;
 }
-.second-content .web-btn{
+
+.second-content .web-btn {
     padding: 12px 20px 12px 20px;
     box-sizing: border-box;
     border: 1px solid rgb(13, 19, 33);
     opacity: 0.7;
     margin-top: 10px;
     margin-right: 360px;
+}
+
+/* inspretio section style */
+.inspreation-container {
+    width: 1140px;
+    height: 777px;
+    margin: 0 auto;
+    margin-top: 88px;
+}
+
+.inspreation-text-container {
+    width: 852px;
+    height: 115px;
+    margin: 0 auto;
+}
+
+.inspreation-text-container h2 {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 800;
+    text-align: center;
+    margin-top: 0px;
+}
+
+.inspreation-text-container p {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 0px;
+}
+
+.inspreation-vide-container {
+    width: 1140px;
+    height: 614px;
+    margin-top: 45px;
+    border: 1px solid rgba(13, 19, 33, 0.2);
+    border-radius: 16px;
+}
+
+.youtube-video iframe{
+    width: 1076px;
+    height: 550px;
+    border-radius: 16px;
+    margin: 10px 0px;
+    margin-left: 30px;
+    margin-top: 30px;
 }
